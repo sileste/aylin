@@ -1,0 +1,20 @@
+/* CSS document */
+
+body { /* telo stranky */
+background-color: #b0c4de;
+font-family: Tahoma;
+font-size: 10pt;
+}
+
+header,footer {
+display: block;
+}
+
+h1  { /* nadpis stranky */
+text-align: center;
+letter-spacing: 10px;
+font-family: Georgia;
+border: 1px solid;
+padding: 10px;
+
+}
